@@ -12,8 +12,8 @@
 `git clone git@github.com:jvwastaken/deep-learning-challenge.git`
 2. Open [Google Colab](https://colab.research.google.com/).
 3. Upload the following files into Colab:
-    -[Starter_Code](Starter_Code/Starter_Code.ipynb).
-    -[Optimized Model](Starter_Code/AlphabetSoupCharity_Optimization.ipynb).
+    - [Starter_Code](Starter_Code/Starter_Code.ipynb).
+    - [Optimized Model](Starter_Code/AlphabetSoupCharity_Optimization.ipynb).
 4. Run the code for each file.
 
 [Written Analysis](Starter_Code/written_analysis.md)
